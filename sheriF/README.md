@@ -1,4 +1,4 @@
-# Khalid Hegazy - Data Scientist
+# sheriF __ai__
 
 ## 🎯 Objective
 Recent Bachelor’s graduate in Computer and Artificial Intelligence, proficient in data analysis, machine learning, and Python. Seeking a Data Scientist role to apply academic knowledge and hands-on project experience. Passionate about innovative, data-driven solutions in collaborative environments.
